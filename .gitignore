@@ -1,0 +1,9 @@
+# Terraform
+modules/
+*.tfstate
+terraform.*
+.terraform
+
+# Temporary directory for deployment
+temp/
+
