@@ -2,8 +2,8 @@
 modules/
 *.tfstate
 terraform.*
-.terraform
+infrastructure/.terraform
 
 # Temporary directory for deployment
-temp/
+infrastructure/temp/
 
